@@ -22,7 +22,7 @@
     }
   },
   "result": {
-    "id": "crowns:fuel_assembly",
+    "id": "crowns:fuel_rod",
     "components": {
       "minecraft:custom_data": {
         "composition": {
